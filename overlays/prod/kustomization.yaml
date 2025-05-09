@@ -3,4 +3,3 @@ resources:
 
 patchesStrategicMerge:
   - patch-replicas.yaml
-  - patch-namespace.yaml
